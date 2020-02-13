@@ -1,0 +1,43 @@
+body {
+  background-image: url("../images/train.jpg");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+
+#bodyContainer{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  width:70%;
+  height: auto;
+  margin:auto;
+  padding:10px;
+  margin-top: 5%;
+  background-color: rgba(220, 220, 220, .65)!important;
+}
+
+.headWords {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+}
+
+section {
+width:auto;
+height:auto;
+margin:auto;
+background-color: rgba(255, 255, 255, 1.0)!important;
+padding-top:3% !important;
+padding-bottom:1% !important;
+padding-right:2% !important;
+padding-left:2% !important;
+margin-top:3%;
+}
+
+.table {
+  text-align: center;
+}
+
+.btn {
+  margin-right:3%;
+  margin-left:3%;
+}
